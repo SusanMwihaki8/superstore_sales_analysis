@@ -12,11 +12,11 @@ A retail data analysis project exploring sales performance and profitability usi
 - Matplotlib: for data visualization.
 - Visual Studio Code: the development environment.
 ## Key Analysis and Findings
-1. Sales Performance by Region
+1. Sales Performance by Region; 
 A bar chart was used to compare sales across regions.
-2. Monthly Sales Trends
+2. Monthly Sales Trends;
 A line chart was created to examine how sales changed over time.
-3. Discounts and Profitability
+3. Discounts and Profitability;
 Correlation analysis showed an approximate discount-profit correlation of -0.22, indicating a weak negative relationship.
 ## Business Recommendations
 - Review discount strategies to understand their effect on profitability.
